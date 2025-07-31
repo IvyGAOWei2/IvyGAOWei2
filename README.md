@@ -5,7 +5,7 @@
 🎓 Master of Applied Computing (Distinction, Dean’s List, NZ)  
 💻 Aspiring Full-Stack Developer | React • .NET • Azure • Python  
 📍 Currently based in New Zealand  
-📫 How to reach me **IvyvvGAO@gmail.com**
+📫 How to reach me **ivygao.tech@gmail.com**
 
 I transitioned into tech with a strong motivation to build real-world applications.
 
