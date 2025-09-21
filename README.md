@@ -3,7 +3,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ivygaowei&label=Profile%20views&color=0e75b6&style=flat" alt="ivygaowei" /> </p>
 
 🎓 Master of Applied Computing (Distinction, Dean’s List, NZ)  
-💻 Aspiring Full-Stack Developer | React • .NET • Azure • Python  
 📊 Python • Azure • SQL • Power BI • ArcGIS | Building full-stack + data solutions
 📍 Currently based in New Zealand  
 📫 How to reach me **ivygao.tech@gmail.com**
