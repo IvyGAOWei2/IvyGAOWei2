@@ -1,19 +1,16 @@
 <h1 align="center">Hi 👋, I'm Ivy Gao</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ivygaowei&label=Profile%20views&color=0e75b6&style=flat" alt="ivygaowei" /> </p>
+🛠️ Experience<br>
+&nbsp;&nbsp;&nbsp;&nbsp;• Data Engineer – ETL pipelines, MySQL design, ML model integration  <br>
+&nbsp;&nbsp;&nbsp;&nbsp;• Procurement Analyst – Power BI dashboards & Excel/VBA automation  <br>
+📊 Python • Azure • SQL • Power BI • ArcGIS | Building data solutions & full-stack systems <br>
+🎓 Master of Applied Computing (Distinction, Dean’s List, NZ) & Master of E-Commerce & Logistics (Dean’s List, HK)<br>
+📍 Currently based in New Zealand  <br>
+📫 How to reach me: ivygao.tech@gmail.com
 
-🎓 Master of Applied Computing (Distinction, Dean’s List, NZ)  
-📊 Python • Azure • SQL • Power BI • ArcGIS | Building full-stack + data solutions <br>
-📍 Currently based in New Zealand  
-📫 How to reach me **ivygao.tech@gmail.com**
 
-I transitioned into tech with a strong motivation to build real-world applications.
 
-Previously, I worked on an AI-based clover detection tool for pasture management as part of a **Callaghan Innovation Internship**, and built multiple web applications during my studies.
-
-I'm constantly learning and improving – recently building with React, TypeScript, and ASP.NET Core.
-
-Looking forward to joining a team where I can grow and contribute to meaningful projects.
 
 ## 🚀 Featured Projects
 - **🌿 Clover Detection App**  
