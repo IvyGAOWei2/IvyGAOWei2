@@ -4,7 +4,7 @@
 🛠️ Experience<br>
 &nbsp;&nbsp;&nbsp;&nbsp;• Data Engineer – ETL pipelines, MySQL design, ML model integration  <br>
 &nbsp;&nbsp;&nbsp;&nbsp;• Procurement Analyst – Power BI dashboards & Excel/VBA automation  <br>
-📊 Python • Azure • SQL • Power BI • ArcGIS | Building data solutions & full-stack systems <br>
+📊 Python • Azure • SQL • Power Plateform • ArcGIS | Building data solutions & full-stack systems <br>
 🎓 Master of Applied Computing (Distinction, Dean’s List, NZ) & Master of E-Commerce & Logistics (Dean’s List, HK)<br>
 📍 Currently based in New Zealand  <br>
 📫 How to reach me: ivygao.tech@gmail.com
